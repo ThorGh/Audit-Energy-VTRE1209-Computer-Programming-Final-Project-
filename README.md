@@ -10,6 +10,18 @@ Part of a Computer Programming VTRE1209 course supervised by Adlan Bagus Pradana
 The library used in this project are listed below:
 * Tkinter, framework for developing graphical user interfaces (GUIs).
 * Matplotlib, Python library to plot data.
+* Sqlite3, python library to handle database. In this software used to handle user database.
 ## Display
-![Tampilan Awal](img-01.jpg)
-![Tampilan Simulasi](img-02.jpg)
+1. Login page
+![Login Page](img1.png)
+2. Homepage of the software
+![Homepage](img2.png)
+3. Calculate energy for lamp
+![Homepage](img3.png)
+4. Calculate energy for other appliances
+![Homepage](img4.png)
+![Homepage](img5.png)
+5. List of calculated energy for all appliances
+![Homepage](img6.png)
+6. Bar chart visualization
+![Homepage](img7.png)
